@@ -1,0 +1,41 @@
+/* styles/styles.css */
+
+.table-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+
+.details {
+  /* Assuming this class already has some styling */
+}
+
+.heading-wrapper {
+  background-color: #FFFF00; /* Set your desired background color */
+  padding: 10px; /* Adjust padding as needed */
+  text-align: center; /* Center the text */
+}
+
+
+
+.app {
+    margin: 6px;
+    background-color: #00FFFF;
+  }
+  
+  table {
+    width: 90%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #000000;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  tr.selected {
+    background-color: #FFFF00;
+  }
+  

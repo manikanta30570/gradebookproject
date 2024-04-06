@@ -1,0 +1,29 @@
+/* Main.css */
+.table-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  
+  /* Main.css */
+  .sort-buttons {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .sort-button {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+  }
+  
+  
+
+  .search-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 10px; /* Optional: add margin to create space between the buttons and search bar */
+  }
+  
+
+  
